@@ -1,0 +1,14 @@
+{
+  "mcp": {
+    "servers": {
+      "langchain-docs": {
+        "type": "remote",
+        "url": "https://docs.langchain.com/mcp"
+      },
+      "langchain-reference": {
+        "type": "remote",
+        "url": "https://reference.langchain.com/mcp"
+      }
+    }
+  }
+}
